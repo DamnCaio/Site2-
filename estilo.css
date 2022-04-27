@@ -1,0 +1,67 @@
+h1{ 
+	color: white;
+	text-align: center;
+	font-size: 80px;
+ }
+
+ p{ 
+	color: white;
+ 	text-align: center;	
+ 	font-size: 20px;
+}
+
+em { 
+	text-align: center;
+	color: #E6B142;
+}
+
+.meio {
+	display: inline;
+
+}
+
+.imagem {
+
+	background: url("floresta.jpg");
+	height: 1000px;
+	width: 1820px;
+	padding: 10px 2%;
+}
+
+table { 
+	background-color: white;
+	float: left;
+
+
+}
+
+.imagem2 { 
+	background: url('floresta2.jpg');
+	height: 1000px;
+	width: 1820px;
+	padding: 10px 2%;
+}
+
+h2{ 
+	color: white;
+	text-align: center;
+	font-size: 80px;
+}
+
+form {
+	background-color: white;
+	width: 300px;
+	margin: 0px;
+}
+
+li{ 
+	color: white;
+	text-align: center;
+	font-size: 20px;
+}
+
+a { 
+	text-align: center;
+	color: white;
+
+}
